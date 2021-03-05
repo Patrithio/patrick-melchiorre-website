@@ -75,6 +75,10 @@ body {
   padding: 10px 0;
   color: #ff143f;
 }
+.textbox-contact a.link-red {
+  font-size: 1em;
+  color: #ff143f;
+}
 .little-sub-title {
   font-size: 1.2em;
   height: 30px;
