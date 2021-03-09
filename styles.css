@@ -212,6 +212,12 @@ h1, h2, p {
     line-height: 1.2em;
     margin: 20px 0;
   }
+  .text-header-container p {
+    font-size: 1.2em;
+    font-weight: lighter;
+    margin: 10px 0;
+    padding: 10px 10px;
+  }
   .photo-header {
     display: none;
   }
@@ -256,6 +262,12 @@ h1, h2, p {
   .text-header-container h2 {
     line-height: 1.2em;
     margin: 20px 0;
+  }
+  .text-header-container p {
+    font-size: 1.2em;
+    font-weight: lighter;
+    margin: 10px 0;
+    padding: 10px 10px;
   }
   .text-work p {
     padding: 0 10%;
